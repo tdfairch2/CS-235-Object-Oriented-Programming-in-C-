@@ -8,6 +8,7 @@ class CounterType {
     public:
 
 	// prototype of setCount method
+	//
 		void setCount(int value); 
 
 	// prototype of increase method
